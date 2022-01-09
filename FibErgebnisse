@@ -1,0 +1,33 @@
+Fib(50)
+NoOmp
+1m22,254s
+Untied1Thread
+5: 1m23,127s
+   1m23,341s
+   1m31,369s
+Untied4Threads
+    40,346s
+    40,325s
+    34,598s
+    41,039s
+Untied8Threads
+    20,140s
+    19,220s
+    19,499s
+Untied16Threads
+    15,095s
+    14,141s
+    14,013s
+Tied16Threads
+    15,146s
+    14,464s
+    14,402s
+Tied8Threads
+    20,336s
+    19,258s
+    19,738s
+Tied4Threads
+    31,899s
+    42,248s
+    40,489s 
+
